@@ -5,12 +5,14 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAquelaCena&show_icons=true&theme=dracula)
 
+Atualmente a aprender:
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+<br>
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+<br>
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAquelaCena)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-![ezgif com-animated-gif-maker](https://github.com/GuilhermeAquelaCena/GuilhermeAquelaCena/assets/153527956/4ec01b35-979d-4d8b-80b5-0b1cd3815fe5)
+
+
