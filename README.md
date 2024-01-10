@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c516d&height=120&section=header"/>
 
 ### Olá!! Sou o Guilherme
 
@@ -18,5 +19,7 @@ Atualmente a estudar:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAquelaCena)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c516d&height=120&section=header"/>
 
 
