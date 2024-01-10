@@ -10,9 +10,7 @@ Atualmente a estudar:
   <img align="center" alt="Gui-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 
-<br>
-<br>
-<br>
+
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAquelaCena&show_icons=true&theme=dracula)
 
@@ -21,6 +19,9 @@ Atualmente a estudar:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAquelaCena)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c516d&height=120&section=header"/>
 
