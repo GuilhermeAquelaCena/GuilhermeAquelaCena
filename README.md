@@ -9,7 +9,7 @@ Atualmente a estudar:
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Gui-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-</div>
+
 <br>
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAquelaCena&show_icons=true&theme=dracula)
