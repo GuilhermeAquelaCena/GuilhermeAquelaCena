@@ -11,6 +11,8 @@ Atualmente a estudar:
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 
 <br>
+<br>
+<br>
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAquelaCena&show_icons=true&theme=dracula)
 
